@@ -211,6 +211,22 @@ console.log(ShowButtonsale)
 
 
 
+let maxo = 1;
+let nika =24;
+let luka = 6;
+let lela = 28
+let ilo = 13
+
+console.log(luka && maxo) || (lela || nika  && ilo);
+console.log(nika && ilo ) + luka
+console.log(nika && luka)
+console.log(lela || nika  && ilo)||(luka && maxo);
+
+
+
+
+
+
 
 
 
